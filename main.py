@@ -14,4 +14,6 @@ def start(message):
     bot.send_message(message.chat.id, 'здарова', reply_markup=markup)
 
 
+asdasdasd
+
 bot.polling(none_stop=True)
